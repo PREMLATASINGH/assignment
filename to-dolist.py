@@ -13,3 +13,4 @@ if "Exercise for 30 minutes" in to_do_list:
     print("Don't forget to exercise!")
 else:
     print("You have completed your exercise for the day!")
+print("Number of tasks in the to-do list:", len(to_do_list))
