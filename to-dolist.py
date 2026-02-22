@@ -7,3 +7,5 @@ to_do_list.append("Read a book")
 print(to_do_list)
 to_do_list.remove("Call mom")
 print(to_do_list)
+to_do_list[1]="Finish project report and send email"
+print(to_do_list)
