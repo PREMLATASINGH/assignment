@@ -8,3 +8,4 @@ print("Average grade:", average_grade)
 # Find the highest and lowest grades
 highest_grade = max(grades)
 print(max(grades))
+print(highest_grade)
