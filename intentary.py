@@ -11,3 +11,5 @@ if "grapes" in inventry:
 else:    print("Grapes are out of stock!")
 print("Number of items in inventory:", len(inventry))
 print("Current inventory:")
+for item in inventry:
+    print("- " + item)
