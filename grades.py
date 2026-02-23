@@ -5,3 +5,6 @@ sum_of_grades = sum(grades)
 print(sum_of_grades)
 print(len(grades))
 print("Average grade:", average_grade)
+# Find the highest and lowest grades
+highest_grade = max(grades)
+print(max(grades))
