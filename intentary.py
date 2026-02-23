@@ -9,3 +9,5 @@ print(inventry)
 if "grapes" in inventry:
     print("Grapes are in stock!")
 else:    print("Grapes are out of stock!")
+print("Number of items in inventory:", len(inventry))
+print("Current inventory:")
