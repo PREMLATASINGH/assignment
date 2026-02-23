@@ -8,3 +8,5 @@ feedback[1]="good quality and value for money"
 print(feedback)
 if "excellent support" in feedback:
     print("Thank you for your positive feedback on our support!")
+else:    print("We appreciate your feedback and will work on improving our support.")
+print("Number of feedback entries:", len(feedback))
