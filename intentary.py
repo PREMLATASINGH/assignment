@@ -4,3 +4,5 @@ inventry.append("orange")
 print(inventry)
 inventry.remove("banana")
 print(inventry)
+inventry[1]="pear"
+print(inventry)
