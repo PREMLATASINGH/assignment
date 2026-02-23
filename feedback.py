@@ -2,3 +2,5 @@ feedback=["great service", "good quality", "fast delivery", "excellent support",
 print(feedback)
 feedback.append("will recommend to others")
 print(feedback)
+feedback.remove("fast delivery")
+print(feedback)
