@@ -12,3 +12,5 @@ else:    print("We appreciate your feedback and will work on improving our suppo
 print("Number of feedback entries:", len(feedback))
 print("All feedback:")
 for entry in feedback:    print("- " + entry)
+feedback_count = len(feedback)
+print("Total feedback entries:", feedback_count)
