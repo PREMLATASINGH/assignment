@@ -4,3 +4,5 @@ feedback.append("will recommend to others")
 print(feedback)
 feedback.remove("fast delivery")
 print(feedback)
+feedback[1]="good quality and value for money"
+print(feedback)
