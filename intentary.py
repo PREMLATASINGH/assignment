@@ -8,3 +8,4 @@ inventry[1]="pear"
 print(inventry)
 if "grapes" in inventry:
     print("Grapes are in stock!")
+else:    print("Grapes are out of stock!")
