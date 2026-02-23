@@ -6,3 +6,5 @@ inventry.remove("banana")
 print(inventry)
 inventry[1]="pear"
 print(inventry)
+if "grapes" in inventry:
+    print("Grapes are in stock!")
